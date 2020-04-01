@@ -39,6 +39,7 @@ public class ApsHomePage extends Base{
 	{
 		driver = startbrowser();
 		log.info("browser started");
+		System.out.println("Gittest");
 	}
 	@AfterTest
 	public void cb() throws IOException, InterruptedException
