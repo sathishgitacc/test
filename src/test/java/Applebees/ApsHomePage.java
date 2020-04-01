@@ -41,6 +41,7 @@ public class ApsHomePage extends Base{
 		log.info("browser started");
 		System.out.println("Gittest");
 		System.out.println("Gittest1");
+		System.out.println("Gittest2");
 	}
 	@AfterTest
 	public void cb() throws IOException, InterruptedException
